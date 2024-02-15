@@ -1,4 +1,7 @@
-# What is Sustaining Engineering? (draft)
+---
+title: "What is Sustaining Engineering? (draft)"
+date: 2019-01-20
+---
 
 I studied Computer Science because I thought I wanted to write code for a living. But perhaps a deeper drive was wanting to know how things work under the hood. In a way this is entitled - I cannot accept that _I_ should not be permitted to look behind the magician's curtain. If not for this drive I would not have tortured myself learning C++.
 

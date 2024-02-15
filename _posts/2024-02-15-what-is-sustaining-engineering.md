@@ -12,7 +12,6 @@ The JVM runs everywhere. Some years ago the OpenJDK adopted a time-based release
 
 I haven't had a boring day yet.
 
- - [^1] [https://mreinhold.org/blog/forward-faster](https://mreinhold.org/blog/forward-faster)
- - [^2] [https://en.wikipedia.org/wiki/Red_Queen%27s_race](https://en.wikipedia.org/wiki/Red_Queen%27s_race)
-[https://www.ascm.org/ascm-insights/the-red-queen-hypothesis/](https://www.ascm.org/ascm-insights/the-red-queen-hypothesis/)
- - [^3] [https://www.oracle.com/security-alerts/](https://www.oracle.com/security-alerts/)
+[^1] [https://mreinhold.org/blog/forward-faster](https://mreinhold.org/blog/forward-faster)
+[^2] [https://en.wikipedia.org/wiki/Red_Queen%27s_race](https://en.wikipedia.org/wiki/Red_Queen%27s_race) and [https://www.ascm.org/ascm-insights/the-red-queen-hypothesis/](https://www.ascm.org/ascm-insights/the-red-queen-hypothesis/)
+[^3] [https://www.oracle.com/security-alerts/](https://www.oracle.com/security-alerts/)

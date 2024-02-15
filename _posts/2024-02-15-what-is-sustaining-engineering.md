@@ -4,7 +4,7 @@ date: 2024-02-15
 ---
 # Introduction and job description
 
-I studied Computer Science because I thought I wanted to write code for a living. But perhaps a deeper drive was wanting to know how things work under the hood. In a way this is entitled - I cannot accept that _I_ should not be permitted to look behind the magician's curtain. If not for this drive I would not have tortured myself learning C++.
+I studied Computer Science because I thought I wanted to write code for a living. But a deeper drive was wanting to know how things work under the hood. In a way this is entitled - I cannot accept that _I_ should not be permitted to look behind the magician's curtain. If not for this drive I would not have tortured myself learning C++.
 
 This summer will mark my third year in the Java Platform Group at Oracle. When hiring me for the positition of "JVM Sustaining Engineer," they told me I wouldn't be writing code, but keeping code running. "Won't I be bored?" I asked. 
 

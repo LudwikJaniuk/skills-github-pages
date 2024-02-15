@@ -8,7 +8,7 @@ I studied Computer Science because I thought I wanted to write code for a living
 
 This summer will mark my third year in the Java Platform Group at Oracle. When hiring me for the positition of "JVM Sustaining Engineer," they told me I wouldn't be writing code, but keeping code running. "Won't I be bored?" I asked. 
 
-The JVM runs everywhere. Some years ago the OpenJDK adopted a time-based release model acknowledging that there are "developers, who prefer rapid innovation, and enterprises, which prefer stability"[^1]. But I see now that stability is not the same as doing nothing[^2]. Cryptographic algorithms change under our feet, as do the operating systems we run on, and even the compilers we use to build. Previously unknown vulnerabilities and bugs are discovered regularly. We need to react to each such change just to deliver this stability that Java is so valued for[^3]. If the JVM doesn't perform as expected, there is a lot of real-world pain.
+Java is everywhere. Some years ago the OpenJDK adopted a time-based release model acknowledging that there are "developers, who prefer rapid innovation, and enterprises, which prefer stability"[^1]. But I see now that stability is not the same as doing nothing[^2]. Cryptographic algorithms change under our feet, as do the operating systems we run on, and even the compilers we use to build. Previously unknown vulnerabilities and bugs are discovered regularly. We need to react to each such change just to deliver this stability that Java is so valued for[^3]. If the JVM doesn't perform as expected, there is a lot of real-world pain.
 
 I haven't had a boring day yet.
 

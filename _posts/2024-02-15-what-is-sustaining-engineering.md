@@ -9,7 +9,7 @@ This summer will mark my third year in the Java Platform Group at Oracle. When h
 
 Here's what I've learned so far. The JVM underpins almost all technology around us[^1]. Some years ago, the OpenJDK adopted a time-based release model acknowledging that there are "developers, who prefer rapid innovation, and enterprises, which prefer stability"[^2]. But that stability is not the same as doing nothing[^3]. Cryptographic algorithms change under our feet, as do operating systems, and even compilers. Vulnerabilities and bugs are discovered regularly. Sustaining Engineering means reacting to each such change[^4] just to deliver this stability that Java is so valued for. 
 
-If the JVM doesn't perform as expected, there is a lot of real-world pain. A car factory might grind to a halt. A hospital might not be able to schedule operating rooms, or a bank might be out of service meaning people don't get paid on time[^5]. These things happen extremely rarely, but when they do, we're the ones to act on them. Sustaining Engineering is solving the underlying issue, while helping the customer work around the problem.
+If the JVM doesn't perform as expected, there is a lot of real-world pain. A car factory grinds to a halt. A hospital cannot schedule operating rooms. A bank is out of service, and people don't get paid on time[^5]. These things happen extremely rarely, but when they do, we're the ones to act on them. Sustaining Engineering means solving the underlying issue, while also helping the customer work around the problem.
 
 I haven't had a boring day yet.
 

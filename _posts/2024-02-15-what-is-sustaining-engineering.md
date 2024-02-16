@@ -9,7 +9,7 @@ This summer will mark my third year in the Java Platform Group at Oracle. When h
 
 It has taken me a while to get up an running, but here is what I've learned so far. The JVM underpins almost all the technology around us. Some years ago, the OpenJDK adopted a time-based release model acknowledging that there are "developers, who prefer rapid innovation, and enterprises, which prefer stability"[^1]. But that stability is not the same as doing nothing[^2]. Cryptographic algorithms change under our feet, as do the operating systems we run on, and even the compilers we use to build. Vulnerabilities and bugs are discovered regularly. Sustaining Engineering means that, we need to react to each such change just to deliver this stability that Java is so valued for[^3]. If the JVM doesn't perform as expected, there is a lot of real-world pain.
 
-What put here...
+For example, a car manufacturer's factory might grind to a halt. A hospital might not be able to schedule operating rooms, a bank might be out of service meaning people don't get paid on time. Even worse, should the JVM emit incorrect machine instructions, an incorrect balance could theoretically be stored after a transation - which is why a permeating principle is to always crash rather than execute incorrectly. These things happen extremely rarely, but when they do, we're the ones to act on them. 
 
 I haven't had a boring day yet.
 

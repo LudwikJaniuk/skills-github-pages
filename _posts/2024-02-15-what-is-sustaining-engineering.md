@@ -5,7 +5,7 @@ date: 2024-02-15
 
 I studied computer science because I thought I wanted to write code for a living, but deep down, maybe I just wanted to know how things work under the hood. This is entitled - I cannot accept that I should not be permitted to look behind the magician's curtain. If not for this I would not have tortured myself learning C++.
 
-This summer will mark my third year in the Java Platform Group at Oracle. When hiring me for the positition of "JVM Sustaining Engineer," they told me I wouldn't be writing code, but keeping code running. "Won't I be bored?" I asked. 
+This summer will mark my third year in the Java Platform Group at Oracle. When hiring me for the _JVM Sustaining Engineering_ team, they told me I wouldn't be writing code, but keeping code running. "Won't I be bored?" I asked. 
 
 Here's what I've learned so far. The JVM underpins almost all technology around us (even SIM cards![^1]). Some years ago the OpenJDK adopted a time-based release model acknowledging that there are "developers, who prefer rapid innovation, and enterprises, which prefer stability"[^2]. But that stability is not the same as doing nothing[^3]. Cryptographic algorithms change under our feet, as do the operating systems we run on, and even the compilers we use to build. Vulnerabilities and bugs are discovered regularly. Sustaining Engineering means reacting to each such change just to deliver this stability that Java is so valued for[^4]. 
 
